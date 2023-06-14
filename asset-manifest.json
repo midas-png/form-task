@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b8369e63.js",
+    "static/media/Stem-Medium.ttf": "/static/media/Stem-Medium.314cafa5e049f924e0f0.ttf",
+    "index.html": "/index.html",
+    "main.b8369e63.js.map": "/static/js/main.b8369e63.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b8369e63.js"
+  ]
+}
