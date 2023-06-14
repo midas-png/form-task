@@ -1,0 +1,1 @@
+export { getNumbers } from './axios';
